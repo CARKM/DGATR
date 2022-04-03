@@ -1,6 +1,8 @@
 # DGATR
 NN_cenral.ipynb is for the DGATR-centralized model;
+
 dis_train.ipynb is for the DGATR-distributed model;
+
 cooperation.ipynb is for the DGATR-cooperated model.
 
 6x6 folder stores the parameters of all well-trained agents at different load, you can just load it to the model to compare the performance.
